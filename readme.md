@@ -18,6 +18,14 @@ A short, non-comprehensive list of synchronizing media services and packages.
 - [Vynchronize](https://vynchronize.herokuapp.com/)
 - [Watch2Gether](https://www.watch2gether.com/)
 
+### Twitch-like
+Live user channels with chat
+
+- [GitGud.tv](http://gitgud.tv/)
+- [Mixer](https://mixer.com/)
+- [Twitch](https://twitch.tv)
+- [Youtube Live](https://www.youtube.com/live_dashboard_splash)
+
 ## File sync
 
 - [Dropbox](https://www.dropbox.com/)
