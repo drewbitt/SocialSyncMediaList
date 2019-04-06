@@ -2,15 +2,18 @@
 
 A short, non-comprehensive list of synchronizing media services and packages.
 
-## Video
+## Video/Music
 
 - [cytu.be](https://cytu.be/)
 - [Gaze](https://letsgaze.com/)
+- [JQBX](https://www.jqbx.fm/) - Music only
 - [myCircle.tv](https://www.mycircle.tv/)
 - [Netflix Party](https://www.netflixparty.com/) - Chrome extension
+- [plug.dj](https://plug.dj) - Music only
 - [Sync-video](https://www.sync-video.com/)
 - [Synclounge](https://synclounge.tv/)
 - [Syncplay](https://syncplay.pl/)
+- [TogetherTube](https://togethertube.com/)
 - [Twoseven](https://twoseven.xyz/)
 - [Vynchronize](https://vynchronize.herokuapp.com/)
 - [Watch2Gether](https://www.watch2gether.com/)
