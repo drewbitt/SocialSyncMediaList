@@ -1,4 +1,4 @@
-# SyncMediaList
+# SocialSyncMediaList
 
 A short, non-comprehensive list of synchronizing and social media services and packages.
 
@@ -27,8 +27,8 @@ A short, non-comprehensive list of synchronizing and social media services and p
 ### Twitch-like
 Live user channels with chat
 
-- [DLive](htttps://dlive.tv)
-- [GitGud.tv](http://gitgud.tv/)
+- [DLive](https://dlive.tv)
+- [GitGud.tv](https://gitgud.tv/)
 - [Mixer](https://mixer.com/)
 - [Twitch](https://twitch.tv)
 - [Youtube Live](https://www.youtube.com/live_dashboard_splash)
