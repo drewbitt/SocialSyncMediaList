@@ -17,12 +17,13 @@ A short, non-comprehensive list of synchronizing and social media services and p
 - [Netflix Party](https://www.netflixparty.com/) - Chrome extension
 - [plug.dj](https://plug.dj) - Music only
 - [Sync-video](https://www.sync-video.com/)
-- [Synclounge](https://synclounge.tv/)
+- [Synclounge](https://synclounge.tv/) - Plex only
 - [Syncplay](https://syncplay.pl/)
 - [TogetherTube](https://togethertube.com/)
 - [Twoseven](https://twoseven.xyz/)
 - [Vynchronize](https://vynchronize.herokuapp.com/)
 - [Watch2Gether](https://www.watch2gether.com/)
+- [Youtual](https://youtual.com/)
 
 ### Twitch-like
 Live user channels with chat
