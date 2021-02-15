@@ -9,12 +9,13 @@ A short, non-comprehensive list of synchronizing and social media services and p
 ## Video/Music
 
 - [AmpMe](https://www.ampme.com/) - "Play music louder" 
-- [cytu.be](https://cytu.be/)
+- [Caracal](https://caracal.club/) - Also has public rooms
+- [cytu.be](https://cytu.be/) - Also has public rooms
 - [Gaze](https://letsgaze.com/)
 - [JQBX](https://www.jqbx.fm/) - Spotify only
 - [Kast](https://kast.gg/)
 - [myCircle.tv](https://www.mycircle.tv/)
-- [Netflix Party](https://www.netflixparty.com/) - Chrome extension
+- [Teleparty](https://www.netflixparty.com/) - Formerly Netflix Party. Chrome extension for Netflix, Disney, Hulu and HBO.
 - [plug.dj](https://plug.dj) - Music only
 - [Sync-video](https://www.sync-video.com/)
 - [Synclounge](https://synclounge.tv/) - Plex only
@@ -26,13 +27,12 @@ A short, non-comprehensive list of synchronizing and social media services and p
 - [Youtual](https://youtual.com/)
 
 ### Twitch-like
-Live user channels with chat
+Public channels with chat
 
 - [DLive](https://dlive.tv)
 - [GitGud.tv](https://gitgud.tv/)
-- [Mixer](https://mixer.com/)
 - [Twitch](https://twitch.tv)
-- [Youtube Live](https://www.youtube.com/live_dashboard_splash)
+- [Youtube Live](https://www.youtube.com/results?sp=EgJAAQ%253D%253D)
 
 ## File sync
 
