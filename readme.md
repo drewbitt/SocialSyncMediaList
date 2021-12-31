@@ -11,13 +11,14 @@ A short, non-comprehensive list of synchronizing and social media services and p
 - [AmpMe](https://www.ampme.com/) - "Play music louder" 
 - [Caracal](https://caracal.club/) - Also has public rooms
 - [cytu.be](https://cytu.be/) - Also has public rooms
+- [Flickcall](https://www.flickcall.com/) - Browser extension
 - [Gaze](https://letsgaze.com/)
 - [JQBX](https://www.jqbx.fm/) - Spotify only
 - [Kast](https://kast.gg/)
 - [myCircle.tv](https://www.mycircle.tv/)
 - [Teleparty](https://www.netflixparty.com/) - Formerly Netflix Party. Chrome extension for Netflix, Disney, Hulu and HBO.
 - [plug.dj](https://plug.dj) - Music only
-- [Sync-video](https://www.sync-video.com/)
+- [Prime Video Watch Party](https://www.amazon.com/adlp/watchparty) - Built in to Prime Video
 - [Synclounge](https://synclounge.tv/) - Plex only
 - [Syncplay](https://syncplay.pl/)
 - [TogetherTube](https://togethertube.com/)
@@ -30,7 +31,9 @@ A short, non-comprehensive list of synchronizing and social media services and p
 Public channels with chat
 
 - [DLive](https://dlive.tv)
+- [Facebook Gaming](https://fb.gg)
 - [GitGud.tv](https://gitgud.tv/)
+- [Picarto](https://picarto.tv)
 - [Twitch](https://twitch.tv)
 - [Youtube Live](https://www.youtube.com/results?sp=EgJAAQ%253D%253D)
 
@@ -55,6 +58,13 @@ Public channels with chat
 - [Rainway](https://rainway.com/)
 - [Steam Home Streaming](https://store.steampowered.com/streaming/) - Internal network only
 - [Steam Link](https://store.steampowered.com/steamlink/about/) - Has both a hardware and software version. Can be used as remote desktop.
+
+## Web gaming hubs
+
+- [Board Game Arena](https://en.boardgamearena.com)
+- [Gidd](https://gidd.io)
+- [Tabletopia](https://tabletopia.com)
+- [Yucata](yucata.de)
 
 ## Web/video/screen
 
