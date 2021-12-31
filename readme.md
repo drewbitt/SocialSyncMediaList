@@ -21,7 +21,6 @@ A short, non-comprehensive list of synchronizing and social media services and p
 - [Prime Video Watch Party](https://www.amazon.com/adlp/watchparty) - Built in to Prime Video
 - [Synclounge](https://synclounge.tv/) - Plex only
 - [Syncplay](https://syncplay.pl/)
-- [TogetherTube](https://togethertube.com/)
 - [Twoseven](https://twoseven.xyz/)
 - [Vynchronize](https://vynchronize.herokuapp.com/)
 - [Watch2Gether](https://www.watch2gether.com/)
