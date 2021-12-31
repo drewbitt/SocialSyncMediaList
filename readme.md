@@ -64,7 +64,7 @@ Public channels with chat
 - [Board Game Arena](https://en.boardgamearena.com)
 - [Gidd](https://gidd.io)
 - [Tabletopia](https://tabletopia.com)
-- [Yucata](yucata.de)
+- [Yucata](https://www.yucata.de/en)
 
 ## Web/video/screen
 
