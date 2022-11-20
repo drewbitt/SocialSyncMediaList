@@ -48,7 +48,6 @@ Public channels with chat
 
 ## Gaming
 
-- [AirConsole](https://www.airconsole.com/) - Streaming game-service (free and subscription). Multiplayer. 
 - [Amazon Luna](https://luna.amazon.com/)
 - [Moonlight](https://moonlight-stream.org/) - Nvidia only
 - [GeForce NOW](https://www.nvidia.com/en-us/geforce-now/)
@@ -60,6 +59,7 @@ Public channels with chat
 
 ## Web gaming hubs
 
+- [AirConsole](https://www.airconsole.com/) - Streaming game-service (free and subscription). Multiplayer. 
 - [Board Game Arena](https://en.boardgamearena.com)
 - [Gidd](https://gidd.io)
 - [Tabletopia](https://tabletopia.com)
