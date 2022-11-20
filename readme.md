@@ -12,7 +12,6 @@ A short, non-comprehensive list of synchronizing and social media services and p
 - [Caracal](https://caracal.club/) - Also has public rooms
 - [cytu.be](https://cytu.be/) - Also has public rooms
 - [Flickcall](https://www.flickcall.com/) - Browser extension
-- [Gaze](https://letsgaze.com/)
 - [JQBX](https://www.jqbx.fm/) - Spotify only
 - [Kast](https://kast.gg/)
 - [myCircle.tv](https://www.mycircle.tv/)
@@ -24,7 +23,6 @@ A short, non-comprehensive list of synchronizing and social media services and p
 - [Twoseven](https://twoseven.xyz/)
 - [Vynchronize](https://vynchronize.herokuapp.com/)
 - [Watch2Gether](https://www.watch2gether.com/)
-- [Youtual](https://youtual.com/)
 
 ### Twitch-like
 Public channels with chat
@@ -50,11 +48,13 @@ Public channels with chat
 
 ## Gaming
 
-- [AirConsole](https://www.airconsole.com/) - Streaming game-service (free and subscription)
-- [Google Stadia](https://stadia.google.com/) - Streaming game-service (subscription)
+- [AirConsole](https://www.airconsole.com/) - Streaming game-service (free and subscription). Multiplayer. 
+- [Amazon Luna](https://luna.amazon.com/)
 - [Moonlight](https://moonlight-stream.org/) - Nvidia only
+- [GeForce NOW](https://www.nvidia.com/en-us/geforce-now/)
 - [Parsec](https://parsecgaming.com/) - Can be used as remote desktop.
 - [Rainway](https://rainway.com/)
+- [Shadow](https://shadow.tech/)
 - [Steam Home Streaming](https://store.steampowered.com/streaming/) - Internal network only
 - [Steam Link](https://store.steampowered.com/steamlink/about/) - Has both a hardware and software version. Can be used as remote desktop.
 
@@ -68,22 +68,26 @@ Public channels with chat
 ## Web/video/screen
 
 - [Discord](https://discordapp.com/)
+- [Giggl](https://giggl.app/)
 - [Jitsi](https://jitsi.org/)
 - [join.me](https://www.join.me/screen-sharing)
 - [Kast](https://kast.gg/) - Formerly Rabb.it. Stream anything and chat in groups about it
+- [neko](https://github.com/m1k1o/neko) - Open source Kast/Giggl alternative
 - [Skype](https://skype.com/)
 - [Zoom](https://zoom.us/)
 
 ## Screensharing/Remote desktop (Non-social)
 
 - [AnyDesk](https://anydesk.com/)
-- [jsmpeg-vnc](https://github.com/phoboslab/jsmpeg-vnc)
-- [ScreenTask](https://screentask.me/) - Internal network only
+- [jsmpeg-vnc](https://github.com/phoboslab/jsmpeg-vnc) - VNC in the browser
+- [NoVNC](https://novnc.com/info.html) - VNC in the browser
+- [RustDesk](https://github.com/rustdesk/rustdesk) - Open source Teamviewer alternative
+- [ScreenTask](https://screentask.me/) - Internal network only, no internet required
+- [Shadow](https://shadow.tech/) - A full PC in just a click
 - [TeamViewer](https://www.teamviewer.com/)
 - [TigerVNC](https://tigervnc.org/)
-- Too many
+- Many others
 
 ## Streaming (P2P)
 
-- [VLC Streaming Server](https://www.videolan.org/vlc/index.html)
-- Not in scope of list
+- [Awesome peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer)
