@@ -14,14 +14,13 @@ A short, non-comprehensive list of synchronizing and social media services and p
 - [Flickcall](https://www.flickcall.com/) - Browser extension
 - [JQBX](https://www.jqbx.fm/) - Spotify only
 - [Kast](https://kast.gg/)
-- [myCircle.tv](https://www.mycircle.tv/)
 - [Teleparty](https://www.netflixparty.com/) - Formerly Netflix Party. Chrome extension for Netflix, Disney, Hulu and HBO.
-- [plug.dj](https://plug.dj) - Music only
 - [Prime Video Watch Party](https://www.amazon.com/adlp/watchparty) - Built in to Prime Video
 - [Synclounge](https://synclounge.tv/) - Plex only
 - [Syncplay](https://syncplay.pl/)
+- [Turntable Live](https://turntablelive.com/)
 - [Twoseven](https://twoseven.xyz/)
-- [Vynchronize](https://vynchronize.herokuapp.com/)
+- [Umi](https://umi.party/) - Crunchyroll player
 - [Watch2Gether](https://www.watch2gether.com/)
 
 ### Twitch-like
@@ -30,6 +29,7 @@ Public channels with chat
 - [DLive](https://dlive.tv)
 - [Facebook Gaming](https://fb.gg)
 - [GitGud.tv](https://gitgud.tv/)
+- [Kick](https://kick.com/)
 - [Picarto](https://picarto.tv)
 - [Twitch](https://twitch.tv)
 - [Youtube Live](https://www.youtube.com/results?sp=EgJAAQ%253D%253D)
@@ -70,7 +70,6 @@ Public channels with chat
 - [Discord](https://discordapp.com/)
 - [Giggl](https://giggl.app/)
 - [Jitsi](https://jitsi.org/)
-- [join.me](https://www.join.me/screen-sharing)
 - [Kast](https://kast.gg/) - Formerly Rabb.it. Stream anything and chat in groups about it
 - [neko](https://github.com/m1k1o/neko) - Open source Kast/Giggl alternative
 - [Skype](https://skype.com/)
@@ -79,6 +78,7 @@ Public channels with chat
 ## Screensharing/Remote desktop (Non-social)
 
 - [AnyDesk](https://anydesk.com/)
+- [Chrome Remote Desktop](https://remotedesktop.google.com/)
 - [jsmpeg-vnc](https://github.com/phoboslab/jsmpeg-vnc) - VNC in the browser
 - [NoVNC](https://novnc.com/info.html) - VNC in the browser
 - [RustDesk](https://github.com/rustdesk/rustdesk) - Open source Teamviewer alternative
@@ -86,7 +86,12 @@ Public channels with chat
 - [Shadow](https://shadow.tech/) - A full PC in just a click
 - [TeamViewer](https://www.teamviewer.com/)
 - [TigerVNC](https://tigervnc.org/)
+- [UltraVNC](https://uvnc.com/)
 - Many others
+
+## Chat/Conferencing
+
+- [Awesome Remote Job - Tools](https://github.com/lukasz-madon/awesome-remote-job#tools)
 
 ## Streaming (P2P)
 
