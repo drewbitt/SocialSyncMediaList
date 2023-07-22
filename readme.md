@@ -21,6 +21,7 @@ A short, non-comprehensive list of synchronizing and social media services and p
 - [Pop](https://pop.com) - Pair programming focus
 - [Skype](https://skype.com/)
 - [Zoom](https://zoom.us/)
+- Conferencing and Chat list - [Awesome Remote Job - Tools](https://github.com/lukasz-madon/awesome-remote-job#tools)
 
 ## Video/Music
 
@@ -100,10 +101,6 @@ Public channels often with chat
 - [TigerVNC](https://tigervnc.org/)
 - [UltraVNC](https://uvnc.com/)
 - Many others
-
-## Chat/Conferencing
-
-- [Awesome Remote Job - Tools](https://github.com/lukasz-madon/awesome-remote-job#tools)
 
 ## Streaming (P2P)
 
