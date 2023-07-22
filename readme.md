@@ -2,18 +2,35 @@
 
 A short, non-comprehensive list of synchronizing and social media services and packages.
 
-## Audio chat
+## Chat/Audio/Video and often Screen Sharing
 
-- [Mumble](https://www.mumble.info/)
+- [Discord](https://discordapp.com/)
+- [Giggl](https://giggl.app/) - Watch & Browse the Web, Together
+- [Kast](https://kast.gg/) - Formerly Rabb.it. Stream anything and chat in groups about it
+- [Kosmi](https://kosmi.io)
+- [Matrix](https://matrix.org/try-matrix/)
+- [neko](https://github.com/m1k1o/neko) - Open source Kast/Giggl/Kosmi alternative
+- [Revolt](https://revolt.chat)
+- [Signal](https://signal.org) - Desktop app has screen sharing
+- [Spacebar](https://github.com/spacebarchat/spacebarchat)
+- [Telegram](https://telegram.org)
+
+### Video Chat
+
+- [Jitsi](https://jitsi.org/)
+- [Pop](https://pop.com) - Pair programming focus
+- [Skype](https://skype.com/)
+- [Zoom](https://zoom.us/)
 
 ## Video/Music
 
 - [AmpMe](https://www.ampme.com/) - "Play music louder" 
 - [Caracal](https://caracal.club/) - Also has public rooms
 - [cytu.be](https://cytu.be/) - Also has public rooms
-- [Flickcall](https://www.flickcall.com/) - Browser extension
+- [Flickcall](https://www.flickcall.com/) - Browser extension to host a watch party
 - [JQBX](https://www.jqbx.fm/) - Spotify only
 - [Kast](https://kast.gg/)
+- [Kosmi](https://kosmi.io)
 - [Teleparty](https://www.netflixparty.com/) - Formerly Netflix Party. Chrome extension for Netflix, Disney, Hulu and HBO.
 - [Prime Video Watch Party](https://www.amazon.com/adlp/watchparty) - Built in to Prime Video
 - [Synclounge](https://synclounge.tv/) - Plex only
@@ -24,7 +41,7 @@ A short, non-comprehensive list of synchronizing and social media services and p
 - [Watch2Gether](https://www.watch2gether.com/)
 
 ### Twitch-like
-Public channels with chat
+Public channels often with chat
 
 - [DLive](https://dlive.tv)
 - [Facebook Gaming](https://fb.gg)
@@ -39,6 +56,7 @@ Public channels with chat
 - [Dropbox](https://www.dropbox.com/)
 - [Google Drive](https://www.google.com/drive/)
 - [Nextcloud](https://nextcloud.com/)
+- [OneDrive](https://onedrive.com/)
 - [ownCloud](https://owncloud.org/)
 - [Resilio Sync](https://www.resilio.com/individuals-sync/)
 - [rsync](https://www.samba.org/rsync/) - Command-line tool
@@ -51,13 +69,13 @@ Public channels with chat
 - [Amazon Luna](https://luna.amazon.com/)
 - [Moonlight](https://moonlight-stream.org/) - Nvidia only
 - [GeForce NOW](https://www.nvidia.com/en-us/geforce-now/)
-- [Parsec](https://parsecgaming.com/) - Can be used as remote desktop.
+- [Parsec](https://parsecgaming.com/) - Can also be used as remote desktop.
 - [Rainway](https://rainway.com/)
 - [Shadow](https://shadow.tech/)
 - [Steam Home Streaming](https://store.steampowered.com/streaming/) - Internal network only
 - [Steam Link](https://store.steampowered.com/steamlink/about/) - Has both a hardware and software version. Can be used as remote desktop.
 
-## Web gaming hubs
+### Web gaming hubs
 
 - [AirConsole](https://www.airconsole.com/) - Streaming game-service (free and subscription). Multiplayer. 
 - [Board Game Arena](https://en.boardgamearena.com)
@@ -65,15 +83,9 @@ Public channels with chat
 - [Tabletopia](https://tabletopia.com)
 - [Yucata](https://www.yucata.de/en)
 
-## Web/video/screen
-
-- [Discord](https://discordapp.com/)
-- [Giggl](https://giggl.app/)
-- [Jitsi](https://jitsi.org/)
-- [Kast](https://kast.gg/) - Formerly Rabb.it. Stream anything and chat in groups about it
-- [neko](https://github.com/m1k1o/neko) - Open source Kast/Giggl alternative
-- [Skype](https://skype.com/)
-- [Zoom](https://zoom.us/)
+### Lists
+- [online-board-games-and-party-games](https://github.com/MatMoore/online-board-games-and-party-games)
+- [awesome-online-board-games](https://github.com/flamableconcrete/awesome-online-board-games)
 
 ## Screensharing/Remote desktop (Non-social)
 
