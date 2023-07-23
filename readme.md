@@ -87,6 +87,7 @@ Public channels often with chat
 ### Lists
 - [online-board-games-and-party-games](https://github.com/MatMoore/online-board-games-and-party-games)
 - [awesome-online-board-games](https://github.com/flamableconcrete/awesome-online-board-games)
+- [Social Games](https://github.com/davidgasquez/handbook/blob/fad297396edbe0272d831a13f7fc4a04c3e867b2/Social%20Games.md)
 
 ## Screensharing/Remote desktop (Non-social)
 
