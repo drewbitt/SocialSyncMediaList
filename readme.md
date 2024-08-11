@@ -5,7 +5,7 @@ A short, non-comprehensive list of synchronizing and social media services and p
 ## Chat/Audio/Video and often Screen Sharing
 
 - [Discord](https://discordapp.com/)
-- [Giggl](https://giggl.app/) - Watch & Browse the Web, Together
+- [HyperBeam Watch Party](https://watch.hyperbeam.com/)
 - [Kast](https://kast.gg/) - Formerly Rabb.it. Stream anything and chat in groups about it
 - [Kosmi](https://kosmi.io)
 - [Matrix](https://matrix.org/try-matrix/)
@@ -33,12 +33,12 @@ A short, non-comprehensive list of synchronizing and social media services and p
 - [Kast](https://kast.gg/)
 - [Kosmi](https://kosmi.io)
 - [Teleparty](https://www.netflixparty.com/) - Formerly Netflix Party. Chrome extension for Netflix, Disney, Hulu and HBO.
-- [Prime Video Watch Party](https://www.amazon.com/adlp/watchparty) - Built in to Prime Video
 - [Synclounge](https://synclounge.tv/) - Plex only
 - [Syncplay](https://syncplay.pl/)
 - [Turntable Live](https://turntablelive.com/)
 - [Twoseven](https://twoseven.xyz/)
 - [Umi](https://umi.party/) - Crunchyroll player
+- [WatchParty](https://www.watchparty.me/)
 - [Watch2Gether](https://www.watch2gether.com/)
 
 ### Twitch-like
